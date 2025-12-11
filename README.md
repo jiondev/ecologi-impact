@@ -29,4 +29,5 @@ git clone https://github.com/your-username/ecologi-impact.git
 Simply open index.html in your browser.
 No backend server is required.
 
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-ecologi.jion.co.uk-blue?style=for-the-badge)](https://ecologi.jion.co.uk)
