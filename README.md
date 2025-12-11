@@ -22,6 +22,7 @@ A lightweight, single-page tool for viewing an Ecologi user's environmental impa
 
 ```bash
 git clone https://github.com/your-username/ecologi-impact.git
+```
 
 ## Open the page
 
